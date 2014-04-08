@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name = "txt2tags",
-    version = '2.6',
+    version = '2.7',
     url = 'http://txt2tags.org',
     author = 'Aurelio Jargas',
     author_email = 'verde@aurelio.net',

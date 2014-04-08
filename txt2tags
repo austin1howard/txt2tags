@@ -131,7 +131,7 @@ my_url = 'http://txt2tags.org'
 my_name = 'txt2tags'
 my_email = 'verde@aurelio.net'
 my_revision = '$Revision$'  # automatic, from SVN
-my_version = '2.6'
+my_version = '2.7'
 
 # Add SVN revision number to version: 1.2.345
 my_version = '%s.%s' % (my_version, re.sub(r'\D', '', my_revision))
